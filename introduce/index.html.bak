@@ -1,0 +1,358 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1">
+    <meta name="keywords" content="Baron简历，前端工程师，求职前端" />
+    <title>前端工程师简历</title>
+
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/introduce.css"/>
+    <!--[if lt IE 9]>
+    <script src="js/html5shiv.min.js"></script>
+    <script src="js/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body>
+    <div class="da-header">
+        <div class="da-header-img">
+            <div class="da-mark">
+                <div class="navbar navbar-default navbar-fixed-top">
+                    <div class="container">
+                        <div class="navbar-header">
+                            <a class="navbar-brand" href="#">前端工程师</a>
+                            <a class="navbar-toggle" data-toggle="collapse" href="#top-menu">
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                            </a>
+                        </div>
+                        <div id="top-menu" class="navbar-collapse collapse">
+                            <ul class="nav navbar-nav navbar-right">
+                                <li class="hover"><a href="#da-info">基本资料</a></li>
+                                <li><a href="#da-project">项目经验</a></li>
+                                <li><a href="#da-profession">专业技能</a></li>
+                                <li><a href="#da-experience">工作经历</a></li>
+                                <li><a href="#da-self">自我评价</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="da-content container">
+                    <div class="da-engineer">
+                        <h1><b>简历</b>-前端工程师</h1>
+                        <h2>郭旗</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="da-info" id="da-info">
+        <div class="container">
+            <h1>基本--资料</h1>
+
+            <div class="row">
+                <div class="col-xs-12 col-md-6">
+                    <div class="row">
+                        <div class="col-xs-12 col-sm-6">
+                            <div class="da-info-content">
+                                <div class="da-info-img">
+                                    <i></i>
+                                </div>
+                                <h3>个人信息</h3>
+                                <p>姓名:郭旗&nbsp;&nbsp;性别:女</p>
+                                <p>籍贯:河南安阳</p>
+                                <p>现居地:杭州滨江区</p>
+                            </div>
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <div class="da-info-content">
+                                <div class="da-info-img">
+                                    <i></i>
+                                </div>
+                                <h3>毕业院校</h3>
+                                <p>学校:河南科技大学</p>
+                                <p>学历:本科</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-md-6">
+                    <div class="row">
+                        <div class="col-xs-12 col-sm-6">
+                            <div class="da-info-content">
+                                <div class="da-info-img">
+                                    <i></i>
+                                </div>
+                                <h3>联系方式:</h3>
+                                <p>电话:13818296410</p>
+                                <p>邮箱:1198868652@qq.com</p>
+                                <p>QQ:1198868652</p>
+                            </div>
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <div class="da-info-content">
+                                <div class="da-info-img">
+                                    <i></i>
+                                </div>
+                                <h3>兴趣爱好:</h3>
+                                <p>打球</p>
+                                <p>手游</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="da-project" id="da-project">
+        <div class="container">
+            <h1>项目--经验</h1>
+            <p>主要涉及旅游、电商系列，其中包括了PC端，移动端APP的开发,涉及客户端与服务器端的交互...</p>
+            <P>主要的技术有:HTML+CSS+JAVASCRIPT+AJAX,BOOTSTRAP、ANGULAR-JS等框架</P>
+            <div class="row">
+                <div class="col-xs-12 col-sm-6 col-md-3">
+                    <div class="well-item">
+                        <div class="correct">
+                            <img src="img/project01.jpg"/>
+                        </div>
+                        <div class="opposite">
+                            <div class="oposite-content">
+                                <div class="opposite-content-text">
+                                    <h4>项目名称:traval旅游网页：</h4>
+                                    <p>项目简介:</p>
+                                    <p>1 分析网页布局，采用HTML搭建基本构建，渲染CSS样式，实现静态网页界面；</p>
+                                    <p>2 利用CSS中的过度属性添加简单的网页效果；</p>
+                                    <p>3 书写javascript添加动态轮播效果</p>
+                                    <p class="text-main">HTML+CSS+JavaScript+DOM+jQuery</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-6 col-md-3">
+                    <div class="well-item">
+                        <div class="correct">
+                            <img src="img/project02.jpg"/>
+                        </div>
+                        <div class="opposite">
+                            <div class="oposite-content">
+                                <div class="opposite-content-text">
+                                    <h4>项目名称:汽车响应式页面</h4>
+                                    <p>项目简介:</p>
+                                    <p>1 使用BootStrap的css样式，将div布局的模块添加样式，nav-bar等的css样式实现导航栏的布局；</p>
+                                    <p>2 完成图片以及页面内容在不同客户端页面不同布局样式的响应式功能；</p>
+                                    <p>3 利用栅格布局实现主页面内容布局，利用在不同屏幕分辨率大小的不同设置不同的样式；</p>
+                                    <p>4 H5添加media媒体功能</p>
+                                    <p class="text-main">bootstrap +HTML5</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-6 col-md-3">
+                    <div class="well-item">
+                        <div class="correct">
+                            <img src="img/project03.jpg"/>
+                        </div>
+                        <div class="opposite">
+                            <div class="oposite-content">
+                                <div class="opposite-content-text">
+                                    <h4>项目名称:汽车查询移动端APP</h4>
+                                    <p>项目简介:</p>
+                                    <p>1 利用ionic实现APP基本网页的搭建；</p>
+                                    <p>2 利用PHP 动态获取服务器端数据；</p>
+                                    <p>3利用angularJs 实现数据的双向绑定，完成视图的展示；</p>
+                                    <p class="text-main">PHP +angular-JS + ionic +phoneGap</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-6 col-md-3">
+                    <div class="well-item">
+                        <div class="correct">
+                            <img src="img/project04.jpg"/>
+                        </div>
+                        <div class="opposite">
+                            <div class="oposite-content">
+                                <div class="opposite-content-text">
+                                    <h4>项目名称:响应式个人简历</h4>
+                                    <p>项目简介:</p>
+                                    <p>1 利用BootStrap框架实现页面的响应式布局;</p>
+                                    <p>CSS3中的动画、HTML5中canvas绘图实现基本的动态效果;</p>
+                                    <p>3 利用jQuery脚本库实现页面的函数监听添加事件,实现鼠标的一些操作;</p>
+                                    <p class="text-main">BootStrap + HTML5 + jQuery</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="da-profession" id="da-profession">
+        <div class="container">
+            <h1>专业--技能</h1>
+            <div class="row">
+                <div class="col-xs-12 col-sm-6 col-md-3">
+                    <div class="pro-content">
+                        <dl>
+                            <dt>
+                                <span>76%</span>
+                                <canvas></canvas>
+                            </dt>
+                            <dd class="dd-color">HTML+CSS</dd>
+                            <dd>熟练使用盒模型的布局,实现静态DOM树的搭建</dd>
+                            <dd>掌握CSS的样式属性,</dd>
+
+                        </dl>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-6 col-md-3">
+                    <div class="pro-content">
+                        <dl>
+                            <dt>
+                                <span>60%</span>
+                                <canvas></canvas>
+                            </dt>
+                            <dd class="dd-color">javaScript+DOM</dd>
+                            <dd>熟练使用盒模型的布局,实现静态DOM树的搭建</dd>
+                            <dd>掌握CSS的样式属性,</dd>
+                        </dl>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-6 col-md-3">
+                    <div class="pro-content">
+                        <dl>
+                            <dt>
+                                <span>80%</span>
+                                <canvas></canvas>
+                            </dt>
+                            <dd class="dd-color">jQuery</dd>
+                            <dd>熟练使用盒模型的布局,实现静态DOM树的搭建</dd>
+                            <dd>掌握CSS的样式属性,</dd>
+                        </dl>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-6 col-md-3">
+                    <div class="pro-content">
+                        <dl>
+                            <dt>
+                                <span>60%</span>
+                                <canvas></canvas>
+                            </dt>
+                            <dd class="dd-color">Ajax</dd>
+                            <dd>熟练使用盒模型的布局,实现静态DOM树的搭建</dd>
+                            <dd>掌握CSS的样式属性,</dd>
+                        </dl>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-xs-12 col-sm-6 col-md-3">
+                    <div class="pro-content">
+                        <dl>
+                            <dt>
+                                <span>69%</span>
+                                <canvas></canvas>
+                            </dt>
+                            <dd class="dd-color">HTML5+CSS3</dd>
+                            <dd>熟练使用盒模型的布局,实现静态DOM树的搭建</dd>
+                            <dd>掌握CSS的样式属性,</dd>
+                        </dl>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-6 col-md-3">
+                    <div class="pro-content">
+                        <dl>
+                            <dt>
+                                <span>72%</span>
+                                <canvas></canvas>
+                            </dt>
+                            <dd class="dd-color">bootstrap</dd>
+                            <dd>熟练使用盒模型的布局,实现静态DOM树的搭建</dd>
+                            <dd>掌握CSS的样式属性,</dd>
+                        </dl>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-6 col-md-3">
+                    <div class="pro-content">
+                        <dl>
+                            <dt>
+                                <span>65%</span>
+                                <canvas></canvas>
+                            </dt>
+                            <dd class="dd-color">angularJ+ionic</dd>
+                            <dd>熟练使用盒模型的布局,实现静态DOM树的搭建</dd>
+                            <dd>掌握CSS的样式属性,</dd>
+                        </dl>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <div class="da-experience" id="da-experience">
+        <div class="container">
+            <div class="col-xs-12 col-sm-6">
+                <img class="img-responsive" src="img/experience.png" alt=""/>
+            </div>
+            <div class="col-xs-12 col-sm-6">
+                <h3>web前段实习生 </h3>
+                <p><b>职责描述:</b></p>
+                <p> 1.使用HTML/CSS3实现页面内容，利用定位和浮动等完成布局，用css完成样式的渲染</p>
+                <p>  2.通过JavaScript、DOM与jQuery实现页面的交互逻辑功能，完成dom树操作</p>
+                <p>3.添加动态功能：编写SQL数据库，通过PHP调用获取后台数据，然后通过在js页面用AJAX将数据传输到页面进行显示，同时将页面操作与后台进行交互，实现部分动态功能。</p>
+
+            </div>
+        </div>
+    </div>
+    <div class="da-self" id="da-self">
+        <div class="container">
+            <div class="da-self-content">
+                <h2>自我评价</h2>
+                <div class="row">
+                    <div class="col-xs-8 col-xs-offset-2">
+                        <div class="self-list">
+                            <p>本人性格开朗，待人热情主动，做事情认真负责，能够吃苦，而且抗压能力比较好,有良好的学习能力，对计算机知识有很大的兴趣。</p>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="da-connect">
+            <div class="container">
+                <div class="connect_me">
+                    <h2 class="connect-text">请联系我</h2>
+                    <div class="row">
+                        <div class="col-xs-12 ">
+                           <h2>电话：13818296410</h2>
+                           <h2>邮件：13818296410@163.com</h2>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="da-footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-8 col-sm-10">
+                        <p>Copyright &copy; 2016 作者：郭旗. 前端工程师 </p>
+                    </div>
+                    <div class="col-xs-4 col-sm-2">
+                        <button type="button" class="btn">Connect Me</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+<script src="js/jquery-1.11.3.js"></script>
+<script src="js/bootstrap.js"></script>
+    <script src="js/introduce.js"></script>
+</body>
+</html>
